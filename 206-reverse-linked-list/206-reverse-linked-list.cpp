@@ -14,6 +14,7 @@ public:
         ListNode*prev=NULL;
         ListNode* cur=head;
         ListNode* nextNode=NULL;
+        //just shifting pointer direction to left ftom towards right using prev,cur,next :)
         while(cur!=NULL){
            nextNode=cur->next;
             cur->next=prev;
