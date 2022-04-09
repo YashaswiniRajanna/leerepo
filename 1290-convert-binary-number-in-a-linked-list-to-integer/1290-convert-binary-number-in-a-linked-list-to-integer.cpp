@@ -12,7 +12,13 @@ class Solution {
 public:
     int getDecimalValue(ListNode* head) {
         int ans=0,base=2,datai=0;
-        //vector<int>res;
+     
+        
+        //101==1*1000+0*100+1*10
+      //1011=1*1000+0*100+1*10+1*1; 
+        //1011=11 can be 101=5*2+1 so n'=n*2+newdigit;
+        
+   
         ListNode* temp=head;
         while(temp!=NULL){
             int datai=temp->val;
