@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-         unordered_map<int,int>map;
-         priority_queue<pair<int,int>>pq;
+         unordered_map<int,int>map;//frequent element
+         priority_queue<pair<int,int>>pq;//to extract top k elements
         vector<int>res;
     
     for(auto x: nums){
