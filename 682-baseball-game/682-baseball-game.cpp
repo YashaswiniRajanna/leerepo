@@ -17,3 +17,4 @@ public:
         }
         
 };
+//stack method can also be used
