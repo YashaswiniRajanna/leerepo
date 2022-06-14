@@ -13,9 +13,9 @@ public:
     TreeNode* ans=NULL;
     TreeNode* getTargetCopy(TreeNode* original, TreeNode* cloned, TreeNode* target) {
         if(cloned==NULL || original==NULL) return NULL;
+         getTargetCopy(original,cloned->left,target);
         if(cloned->val==target->val)
             ans=cloned;
-        getTargetCopy(original,cloned->left,target);
         getTargetCopy(original,cloned->right,target);
         return ans;
     }
