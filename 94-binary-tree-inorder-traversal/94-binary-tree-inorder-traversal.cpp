@@ -21,7 +21,6 @@ public:
     }
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> res;
-        TreeNode* temp;
         func(root,res);
         return res;
     }
