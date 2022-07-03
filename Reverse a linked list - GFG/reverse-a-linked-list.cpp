@@ -45,7 +45,7 @@ class Solution
           cur=next;
           
         }
-      
+      head=prev ;
        return head;
         // code here
         // return head of reversed list
