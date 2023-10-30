@@ -13,10 +13,10 @@ public:
     int p = numberof1(a);
     int q = numberof1(b);
     if(p==q){
-        return (a<=b);
+        return a<=b;
     }
     else{
-        return (p<q);
+        return p<q;
     }
 }
     
