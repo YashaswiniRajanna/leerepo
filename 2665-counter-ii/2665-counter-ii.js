@@ -5,7 +5,7 @@
 var createCounter = function(init) {
     let counter=init
     return {
-        increment:()=> counter+=1, decrement:()=> counter-=1,reset:()=> { return counter=init}
+        increment:()=> counter+=1, decrement:()=> counter-=1,reset:()=> counter=init
     };
 };
 
