@@ -15,12 +15,7 @@ public:
             row.push_back(no1); 
             }
         }
-        if(row.size()==0) return 0;
-        if(row.size()==1){
-            if(bank[0][0]=='0') return 0;
-            if(bank[0][0]=='1') return 0;
-
-        }
+        if(row.size()==0 || row.size()==1) return 0;
          for(int i=0;i<row.size()-1;i++){
                  count=count+row[i]*row[i+1];
              }
