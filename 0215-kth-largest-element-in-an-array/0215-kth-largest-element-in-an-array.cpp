@@ -4,22 +4,21 @@ using namespace std;
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        // sort(nums.begin(),nums.end());
-        // return nums[nums.size()-k];
-        priority_queue<int> p;
-        for(auto i:nums){
-            p.push(i);
-        }
-        while(k!=1){
-            p.pop();
-            k--;
-        }
-        return p.top();
+        sort(nums.begin(),nums.end());
+        return nums[nums.size()-k];
     }
 };
 
 //using priority queue
-
+ // priority_queue<int> p;
+ //        for(auto i:nums){
+ //            p.push(i);
+ //        }
+ //        while(k!=1){
+ //            p.pop();
+ //            k--;
+ //        }
+ //        return p.top();
 
 
 // if duplicate elements are not counted
