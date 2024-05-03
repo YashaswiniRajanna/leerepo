@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int tob(int n){
-        int rem=0;
-        int base=1;
-        int res=0;
-        while(n>0){
+    int cdtb(int n){
+        int rem=0,res=0;
+        
+        while(n!=0){
             rem=n%2;
             n=n/2;
-            res+=rem*base;  
+            res=res+rem;
         }
-        return res;
+       return res; 
     }
     vector<int> countBits(int n) {
-        vector<int> res;
-        for(int i=0;i<n+1;i++){
-         int rem=tob(i);
-          res.push_back(rem);
+        vector<int> ret;
+        for(int i=0;i<=n;i++){
+            int no1=cdtb(i);
+            ret.push_back(no1);
         }
-        return res;
+        return ret;
     }
 };
