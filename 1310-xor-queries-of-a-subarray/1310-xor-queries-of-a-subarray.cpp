@@ -8,10 +8,6 @@ vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
     for(int i=1;i<arr.size();i++){
         pre_xor[i]=pre_xor[i-1]^arr[i];
     }
-    for(auto i: pre_xor){
-        cout<<i<<endl;
-    }
-
     for(int i=0;i<queries.size();i++){
         if(queries[i][0]==0)
         {
