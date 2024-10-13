@@ -17,7 +17,8 @@ public:
                     count++;
                     num>>=1;
                 }
-                ans[i]= ncopy-(1<<(count-1));
+                ans[i]=(ncopy & (~(1<<(count-1))));
+                // ans[i]= ncopy-(1<<(count-1));
                 // bitset<32> ni(nums[i]);
                 // cout<<ni<<endl;
                 // int n=static_cast<int>(ni.to_ulong());
