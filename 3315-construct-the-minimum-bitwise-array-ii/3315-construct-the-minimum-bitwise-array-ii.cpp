@@ -17,8 +17,8 @@ public:
                     count++;
                     num>>=1;
                 }
-                ans[i]=(ncopy & (~(1<<(count-1))));
-                // ans[i]= ncopy-(1<<(count-1));
+                // ans[i]=(ncopy & (~(1<<(count-1))));
+                ans[i]= ncopy-(1<<(count-1));
                 // bitset<32> ni(nums[i]);
                 // cout<<ni<<endl;
                 // int n=static_cast<int>(ni.to_ulong());
@@ -29,17 +29,6 @@ public:
             }
 
         }
-        // for(int i=0;i<nums.size();i++){
-        //     int ele=nums[i];
-        //     int anse=(7)>>1;
-        //     cout<<anse;
-        //     for(int j=1;j<ele;j++){
-        //         if(( j | (j+1))==ele){
-        //             ans[i]=j;
-        //             break;
-        //         }
-        //     }
-        // }
         return ans;
     }
 };
