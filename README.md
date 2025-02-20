@@ -37,4 +37,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YashaswiniRajanna/leerepo/tree/master/0006-zigzag-conversion) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/YashaswiniRajanna/leerepo/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
