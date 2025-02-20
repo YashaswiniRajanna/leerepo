@@ -21,4 +21,16 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/YashaswiniRajanna/leerepo/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
