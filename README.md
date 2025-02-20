@@ -33,4 +33,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/YashaswiniRajanna/leerepo/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
