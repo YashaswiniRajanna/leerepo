@@ -25,6 +25,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/YashaswiniRajanna/leerepo/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
