@@ -38,10 +38,12 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YashaswiniRajanna/leerepo/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/YashaswiniRajanna/leerepo/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
