@@ -14,8 +14,10 @@ public:
             }
               else{
                       // mp.clear();
-                      start=mp[s[end]]+1;
+                      cout<<mp[s[end]]<<end<<s[end]<<endl;
+                      start=end+1;
                       mp[s[end]]=end;
+                      cout<<"start"<<start<<endl;
               }
         }
         return maxx;
