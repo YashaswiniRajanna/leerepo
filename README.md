@@ -16,10 +16,12 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YashaswiniRajanna/leerepo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YashaswiniRajanna/leerepo/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YashaswiniRajanna/leerepo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YashaswiniRajanna/leerepo/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
