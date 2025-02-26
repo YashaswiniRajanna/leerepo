@@ -39,6 +39,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YashaswiniRajanna/leerepo/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
