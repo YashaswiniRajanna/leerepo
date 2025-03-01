@@ -18,6 +18,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YashaswiniRajanna/leerepo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YashaswiniRajanna/leerepo/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -53,10 +55,12 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +70,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniRajanna/leerepo/tree/master/0003-longest-substring-without-repeating-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
