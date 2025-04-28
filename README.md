@@ -102,4 +102,12 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/YashaswiniRajanna/leerepo/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/YashaswiniRajanna/leerepo/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
