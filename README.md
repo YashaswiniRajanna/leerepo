@@ -29,6 +29,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/YashaswiniRajanna/leerepo/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0007-reverse-integer](https://github.com/YashaswiniRajanna/leerepo/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
