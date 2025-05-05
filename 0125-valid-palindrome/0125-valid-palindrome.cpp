@@ -6,21 +6,19 @@ public:
             if(s[i]!=s[j]){
                 return false;
             }
-            else{
-                i++;
-                j--;
-            }
+            i++;
+            j--;
         }
         return true;
     }
-    bool isPalindrome(string s) {
-        string ans="";
-        for(auto i: s){
+    bool isPalindrome(string si) {
+        string s="";
+        for(auto i: si){
             if(isalnum(i)){
-                ans+=tolower(i);
+                s+=tolower(i);
             }
         }
-        cout<<ans<<endl;
-        return check(ans);
+        cout<<s;
+        return check(s);
     }
 };
