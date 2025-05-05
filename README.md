@@ -24,6 +24,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YashaswiniRajanna/leerepo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YashaswiniRajanna/leerepo/tree/master/0024-swap-nodes-in-pairs) |
+| [1013-fibonacci-number](https://github.com/YashaswiniRajanna/leerepo/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0007-reverse-integer](https://github.com/YashaswiniRajanna/leerepo/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
+| [1013-fibonacci-number](https://github.com/YashaswiniRajanna/leerepo/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -108,8 +110,13 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/YashaswiniRajanna/leerepo/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/YashaswiniRajanna/leerepo/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/YashaswiniRajanna/leerepo/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/YashaswiniRajanna/leerepo/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
