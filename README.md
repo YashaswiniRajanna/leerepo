@@ -63,6 +63,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0050-powx-n](https://github.com/YashaswiniRajanna/leerepo/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/YashaswiniRajanna/leerepo/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/YashaswiniRajanna/leerepo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
