@@ -33,6 +33,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/YashaswiniRajanna/leerepo/tree/master/2048-build-array-from-permutation) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/YashaswiniRajanna/leerepo/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -45,6 +46,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,4 +137,20 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/YashaswiniRajanna/leerepo/tree/master/2048-build-array-from-permutation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
