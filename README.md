@@ -33,6 +33,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/YashaswiniRajanna/leerepo/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/YashaswiniRajanna/leerepo/tree/master/2048-build-array-from-permutation) |
@@ -154,4 +155,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/YashaswiniRajanna/leerepo/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
