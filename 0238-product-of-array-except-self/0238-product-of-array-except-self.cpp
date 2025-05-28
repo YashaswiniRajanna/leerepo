@@ -1,51 +1,39 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
+        int ans= 1,count=0;
         vector<int> res;
-        int i=0,j=0;
-        int nres=1;
-        bool flag=false;
-        // unordered_map<int,int> res;
-        int no_of_0=0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]!=0){
-            nres=nres*nums[i];
+        for(auto i: nums){
+            if(i!=0){
+                ans*=i;
             }
-            if(nums[i]==0){
-               flag= true; 
-                no_of_0++;
+            if(i==0){
+                count++;
             }
         }
-        cout<<no_of_0;
-        if(no_of_0 > 1){
-             for(int i=0;i<nums.size();i++){
-                  res.push_back(0);
-             }
-            }
-        else{
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==0 ){
-                res.push_back(nres);
-            }
-            else if(flag && nums[i]!=0){
+        cout<<ans;
+        if(count>1){
+            for(int i=0;i<nums.size();i++){
                 res.push_back(0);
             }
-            
-            else{
-            res.push_back(nres/nums[i]);
+            return res;
+        }
+        else{
+        for(int i=0;i<nums.size();i++){
+
+            if(nums[i]!=0){
+                if(count>0){
+                    res.push_back(0);
+                }
+                else{
+                    res.push_back(ans/nums[i]);
+                }
+            }
+            if(nums[i]==0){
+                res.push_back(ans);
             }
         }
-        }
-//         for(int i=0;i<nums.size();i++){
-//             int nres=1;
-//             for(int j=0;j<nums.size();j++){
-//                 if(i!=j){
-//                     nres=nres*nums[j];
-//                 }
-//             }
-//             res.push_back(nres);
-            
-//         }
         return res;
+        }
     }
 };
