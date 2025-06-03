@@ -33,6 +33,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/YashaswiniRajanna/leerepo/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +87,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
@@ -165,4 +167,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
