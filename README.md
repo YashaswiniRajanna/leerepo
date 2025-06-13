@@ -36,6 +36,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniRajanna/leerepo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashaswiniRajanna/leerepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
@@ -141,6 +142,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniRajanna/leerepo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/YashaswiniRajanna/leerepo/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/YashaswiniRajanna/leerepo/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
