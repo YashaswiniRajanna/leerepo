@@ -34,6 +34,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0015-3sum](https://github.com/YashaswiniRajanna/leerepo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashaswiniRajanna/leerepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -77,6 +78,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0011-container-with-most-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YashaswiniRajanna/leerepo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashaswiniRajanna/leerepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -133,10 +135,12 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0094-binary-tree-inorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/YashaswiniRajanna/leerepo/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/YashaswiniRajanna/leerepo/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -183,4 +187,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
