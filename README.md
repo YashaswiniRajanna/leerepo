@@ -64,6 +64,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0012-integer-to-roman](https://github.com/YashaswiniRajanna/leerepo/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -101,11 +102,13 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniRajanna/leerepo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
 ## Merge Sort
 |  |
 | ------- |
