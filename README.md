@@ -119,23 +119,27 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0094-binary-tree-inorder-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 ## Stack
 |  |
 | ------- |
