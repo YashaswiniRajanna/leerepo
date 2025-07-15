@@ -68,6 +68,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
+| [3396-valid-word](https://github.com/YashaswiniRajanna/leerepo/tree/master/3396-valid-word) |
 ## Math
 |  |
 | ------- |
