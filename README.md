@@ -38,6 +38,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniRajanna/leerepo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashaswiniRajanna/leerepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
@@ -130,6 +131,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
@@ -140,6 +142,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
@@ -202,6 +205,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
@@ -209,6 +213,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
