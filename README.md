@@ -130,6 +130,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0199-binary-tree-right-side-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Stack
 |  |
 | ------- |
