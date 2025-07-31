@@ -133,6 +133,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -205,6 +207,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 ## Greedy
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
