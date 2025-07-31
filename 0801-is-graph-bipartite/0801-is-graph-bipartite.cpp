@@ -18,7 +18,7 @@ public:
                              colors[i]=!col;
                              q.push({i,colors[i]});
                         }
-                        else if(colors[i]==col){
+                        if(colors[i]==col){
                             return false;
                         }
                     }
