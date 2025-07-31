@@ -46,6 +46,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/YashaswiniRajanna/leerepo/tree/master/2048-build-array-from-permutation) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/YashaswiniRajanna/leerepo/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -138,6 +139,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 ## Greedy
 |  |
 | ------- |
