@@ -146,6 +146,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0261-graph-valid-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0261-graph-valid-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/YashaswiniRajanna/leerepo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/YashaswiniRajanna/leerepo/tree/master/0339-nested-list-weight-sum) |
 | [0547-number-of-provinces](https://github.com/YashaswiniRajanna/leerepo/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
@@ -163,6 +164,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0261-graph-valid-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0261-graph-valid-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/YashaswiniRajanna/leerepo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/YashaswiniRajanna/leerepo/tree/master/0339-nested-list-weight-sum) |
 | [0547-number-of-provinces](https://github.com/YashaswiniRajanna/leerepo/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
