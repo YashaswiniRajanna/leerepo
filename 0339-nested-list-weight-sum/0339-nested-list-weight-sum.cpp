@@ -28,20 +28,43 @@
  * };
  */
 class Solution {
+private:
+    // void dfs(int &total,int depth,vector<NestedInteger>& nestedList){
+    //     for(auto i:nestedList){
+    //         if(i.isInteger()){
+    //             total+=i.getInteger()*depth;
+    //         }
+    //         else{
+    //             dfs(total,depth+1,i.getList());
+    //         }     
+    //     }
+    // }
 public:
-    void helper(int &total,int depth,vector<NestedInteger>& nestedList){
-        for(auto i:nestedList){
-            if(i.isInteger()){
-                total+=i.getInteger()*depth;
-            }
-            else{
-                helper(total,depth+1,i.getList());
-            }     
-        }
-    }
     int depthSum(vector<NestedInteger>& nestedList) {
         int depth=1,total=0;
-        helper(total,depth,nestedList);
+        queue<NestedInteger> q;
+        for(auto i: nestedList){
+            q.push(i);
+        }
+        while(!q.empty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                NestedInteger cur=q.front();
+                q.pop();
+                if(cur.isInteger()){
+                    cout<<depth<<endl;
+                    total+=cur.getInteger()*depth;
+                }
+                else{
+                    for(auto i : cur.getList()){
+                        q.push(i);
+                    }
+                }
+            }
+            depth++;
+        }
+
+        // dfs(total,depth,nestedList);
         return total;
     }
 };
