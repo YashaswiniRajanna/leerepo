@@ -48,6 +48,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1909-buildings-with-an-ocean-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/1909-buildings-with-an-ocean-view) |
 | [2048-build-array-from-permutation](https://github.com/YashaswiniRajanna/leerepo/tree/master/2048-build-array-from-permutation) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/YashaswiniRajanna/leerepo/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -186,6 +187,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0094-binary-tree-inorder-traversal) |
+| [1909-buildings-with-an-ocean-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/1909-buildings-with-an-ocean-view) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
+| [1909-buildings-with-an-ocean-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/1909-buildings-with-an-ocean-view) |
 ## Graph
 |  |
 | ------- |
