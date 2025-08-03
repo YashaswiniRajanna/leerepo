@@ -15,12 +15,14 @@ public:
             if(ans[ans.size()-1][1]>=intervals[i][0])
         {
             vector<int> temp;
-            if(intervals[i][1]>=ans[ans.size()-1][1]){
-                temp={ans[ans.size()-1][0],intervals[i][1]};
-            }
-            else{
-                temp={ans[ans.size()-1][0],ans[ans.size()-1][1]};
-            }
+            temp=(intervals[i][1]>=ans[ans.size()-1][1])? vector<int>{ans[ans.size()-1][0],intervals[i][1]} :vector<int>{ans[ans.size()-1][0],ans[ans.size()-1][1]};
+
+            // if(intervals[i][1]>=ans[ans.size()-1][1]){
+            //     temp={ans[ans.size()-1][0],intervals[i][1]};
+            // }
+            // else{
+            //     temp=;
+            // }
             ans.pop_back();
             ans.push_back(temp);
         }
