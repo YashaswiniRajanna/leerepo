@@ -36,6 +36,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/YashaswiniRajanna/leerepo/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniRajanna/leerepo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/YashaswiniRajanna/leerepo/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
@@ -99,6 +100,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0015-3sum](https://github.com/YashaswiniRajanna/leerepo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YashaswiniRajanna/leerepo/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/YashaswiniRajanna/leerepo/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 | [0252-meeting-rooms](https://github.com/YashaswiniRajanna/leerepo/tree/master/0252-meeting-rooms) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
