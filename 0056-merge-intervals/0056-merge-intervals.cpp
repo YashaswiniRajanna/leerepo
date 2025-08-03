@@ -1,5 +1,6 @@
 class Solution {
 public:
+//my own stupid tc code :x
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> ans;
         vector<int> tstart;
@@ -36,13 +37,5 @@ public:
         }
         vector<vector<int>> final_ans(s.begin(),s.end());
         return final_ans;
-        // int i=0,j=0;
-        // while(i<tstart.size()){
-        //     if(tstart[i]>tend[j]){
-
-        //     }
-        // }
-
-
     }
 };
