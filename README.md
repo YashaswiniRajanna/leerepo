@@ -45,6 +45,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/YashaswiniRajanna/leerepo/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/YashaswiniRajanna/leerepo/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
@@ -94,6 +95,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashaswiniRajanna/leerepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/YashaswiniRajanna/leerepo/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Sorting
@@ -105,6 +107,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0056-merge-intervals](https://github.com/YashaswiniRajanna/leerepo/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/YashaswiniRajanna/leerepo/tree/master/0148-sort-list) |
 | [0252-meeting-rooms](https://github.com/YashaswiniRajanna/leerepo/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -217,6 +220,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -234,6 +238,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YashaswiniRajanna/leerepo/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +264,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YashaswiniRajanna/leerepo/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
