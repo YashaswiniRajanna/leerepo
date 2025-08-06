@@ -50,6 +50,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/YashaswiniRajanna/leerepo/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1909-buildings-with-an-ocean-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/1909-buildings-with-an-ocean-view) |
@@ -75,6 +76,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0049-group-anagrams](https://github.com/YashaswiniRajanna/leerepo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/YashaswiniRajanna/leerepo/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/YashaswiniRajanna/leerepo/tree/master/1108-analyze-user-website-visit-pattern) |
 | [3396-valid-word](https://github.com/YashaswiniRajanna/leerepo/tree/master/3396-valid-word) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/YashaswiniRajanna/leerepo/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/YashaswiniRajanna/leerepo/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/YashaswiniRajanna/leerepo/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Sliding Window
