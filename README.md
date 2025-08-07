@@ -47,6 +47,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0252-meeting-rooms](https://github.com/YashaswiniRajanna/leerepo/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+| [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
@@ -61,6 +62,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashaswiniRajanna/leerepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,5 +293,14 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 ## Design
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
+## Queue
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
