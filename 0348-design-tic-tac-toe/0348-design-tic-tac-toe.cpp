@@ -1,23 +1,24 @@
 class TicTacToe {
-private: 
-    int dim;
+private:
     vector<vector<char>> board;
 public:
     TicTacToe(int n) {
-        this->dim=n;
-        int i=0;
-        vector<char> temp(n);
-        while(i<n){
-            board.push_back(temp);
-            i++;
-        }
+        // this->dim=n;
+        // int i=0;
+        // vector<char> temp(n);
+        this->board=vector<vector<char>>(n,vector<char>(n,'-1'));
+        // while(i<n){
+        //     board.push_back(temp);
+        //     i++;
+        // }
     }
     
     int move(int row, int col, int player) {
         //  1->X  2->O
         char val=(player==1) ? 'X':'O';
         this->board[row][col]= val;
-        int size=this->dim;
+        // int size=this->dim;
+        int size=this->board.size();
         bool horizontal=true,vertical=true,diagonal_left=true,diagonal_right=true;
         for(int i=0;i<size;i++){
            if(this->board[i][col]!=val){
