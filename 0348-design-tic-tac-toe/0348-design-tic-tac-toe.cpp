@@ -6,7 +6,7 @@ public:
     TicTacToe(int n) {
         this->dim=n;
         int i=0;
-        vector<char> temp(n,'-1');
+        vector<char> temp(n);
         while(i<n){
             board.push_back(temp);
             i++;
