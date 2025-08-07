@@ -47,6 +47,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0252-meeting-rooms](https://github.com/YashaswiniRajanna/leerepo/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
@@ -126,6 +127,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0219-contains-duplicate-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/YashaswiniRajanna/leerepo/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -225,6 +227,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
 | [2048-build-array-from-permutation](https://github.com/YashaswiniRajanna/leerepo/tree/master/2048-build-array-from-permutation) |
 ## Heap (Priority Queue)
 |  |
@@ -254,6 +257,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
+| [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
@@ -293,6 +297,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 ## Design
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Queue
