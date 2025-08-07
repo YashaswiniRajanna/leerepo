@@ -33,10 +33,8 @@ public:
                if(this->board[i][i]!=val){
                     diagonal_left=false;
                 } 
-            }
-        for(int i=0;i<size;i++){
-               if(this->board[i][size-1-i]!=val){
-                    diagonal_right=false;
+                if(this->board[i][size-1-i]!=val){
+                        diagonal_right=false;
                 } 
             }
         if(horizontal || vertical || diagonal_left || diagonal_right){
