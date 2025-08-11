@@ -46,6 +46,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0238-product-of-array-except-self](https://github.com/YashaswiniRajanna/leerepo/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/YashaswiniRajanna/leerepo/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
+| [0286-walls-and-gates](https://github.com/YashaswiniRajanna/leerepo/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
@@ -182,6 +183,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/YashaswiniRajanna/leerepo/tree/master/0261-graph-valid-tree) |
+| [0286-walls-and-gates](https://github.com/YashaswiniRajanna/leerepo/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/YashaswiniRajanna/leerepo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/YashaswiniRajanna/leerepo/tree/master/0339-nested-list-weight-sum) |
@@ -257,6 +259,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0036-valid-sudoku](https://github.com/YashaswiniRajanna/leerepo/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/YashaswiniRajanna/leerepo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/YashaswiniRajanna/leerepo/tree/master/0286-walls-and-gates) |
 | [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
