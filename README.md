@@ -129,6 +129,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0314-binary-tree-vertical-order-traversal](https://github.com/YashaswiniRajanna/leerepo/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
+| [0359-logger-rate-limiter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0359-logger-rate-limiter) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashaswiniRajanna/leerepo/tree/master/0424-longest-repeating-character-replacement) |
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/YashaswiniRajanna/leerepo/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -301,6 +302,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/YashaswiniRajanna/leerepo/tree/master/0348-design-tic-tac-toe) |
+| [0359-logger-rate-limiter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Queue
@@ -310,5 +312,6 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
