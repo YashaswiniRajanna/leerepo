@@ -36,11 +36,11 @@ public:
                 if(ingress[i]==0) q.push(i);
             }
         }
-        if(toporder.size() == numCourses){
-            return true;
+        if(toporder.size() < numCourses){
+            return false;
         }
         cout<<toporder.size();
-        return false;
+        return true;
         // stack<int> st;
         // vector<int> visit(numCourses,0);
         // vector<vector<int>>adj(numCourses,vector<int>{});
