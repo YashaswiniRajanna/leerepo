@@ -58,6 +58,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [1171-shortest-path-in-binary-matrix](https://github.com/YashaswiniRajanna/leerepo/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1753-path-with-minimum-effort](https://github.com/YashaswiniRajanna/leerepo/tree/master/1753-path-with-minimum-effort) |
 | [1909-buildings-with-an-ocean-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/1909-buildings-with-an-ocean-view) |
 | [2048-build-array-from-permutation](https://github.com/YashaswiniRajanna/leerepo/tree/master/2048-build-array-from-permutation) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/YashaswiniRajanna/leerepo/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -67,6 +68,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0004-median-of-two-sorted-arrays](https://github.com/YashaswiniRajanna/leerepo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashaswiniRajanna/leerepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0362-design-hit-counter](https://github.com/YashaswiniRajanna/leerepo/tree/master/0362-design-hit-counter) |
+| [1753-path-with-minimum-effort](https://github.com/YashaswiniRajanna/leerepo/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/YashaswiniRajanna/leerepo/tree/master/1753-path-with-minimum-effort) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -209,6 +212,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/YashaswiniRajanna/leerepo/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/YashaswiniRajanna/leerepo/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +255,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/YashaswiniRajanna/leerepo/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YashaswiniRajanna/leerepo/tree/master/0347-top-k-frequent-elements) |
+| [1753-path-with-minimum-effort](https://github.com/YashaswiniRajanna/leerepo/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -280,6 +285,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/YashaswiniRajanna/leerepo/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/YashaswiniRajanna/leerepo/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -292,6 +298,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0694-number-of-distinct-islands](https://github.com/YashaswiniRajanna/leerepo/tree/master/0694-number-of-distinct-islands) |
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/YashaswiniRajanna/leerepo/tree/master/1753-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
