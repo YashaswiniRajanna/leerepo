@@ -15,7 +15,7 @@ public:
             int col=q.top().second.second;
             q.pop();
             if(row==m-1 && col==n-1){
-                return max_dis;
+                return dist[m-1][n-1];
             }
             for(int i=0;i<4;i++){
                 int drow=row+vrow[i];
