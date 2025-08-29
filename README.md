@@ -55,6 +55,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/YashaswiniRajanna/leerepo/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/YashaswiniRajanna/leerepo/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YashaswiniRajanna/leerepo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/YashaswiniRajanna/leerepo/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1909-buildings-with-an-ocean-view](https://github.com/YashaswiniRajanna/leerepo/tree/master/1909-buildings-with-an-ocean-view) |
@@ -207,6 +208,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0801-is-graph-bipartite](https://github.com/YashaswiniRajanna/leerepo/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/YashaswiniRajanna/leerepo/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A repository containing my ✅Solutions for problems on LeetCode🧑🏾‍💻
 | [0733-flood-fill](https://github.com/YashaswiniRajanna/leerepo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/YashaswiniRajanna/leerepo/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/YashaswiniRajanna/leerepo/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/YashaswiniRajanna/leerepo/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
