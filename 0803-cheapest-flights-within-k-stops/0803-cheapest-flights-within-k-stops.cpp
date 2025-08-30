@@ -16,7 +16,7 @@ public:
             int node=pq.top().second.first;
             int dist=pq.top().second.second;
             pq.pop();
-            // if(stop>k) continue;
+            if(stop>k) continue;
             for(auto i: edges[node]){
                 int next_weight=i.second,next_node=i.first;
                 if(dist+next_weight< distance[next_node] && stop<=k){
