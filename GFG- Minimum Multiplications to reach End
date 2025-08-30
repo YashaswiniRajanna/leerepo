@@ -1,0 +1,93 @@
+// User function Template for C++
+// // User function Template for C++
+//brute force
+// class Solution {
+//   public:
+//     int minimumMultiplications(vector<int>& arr, int start, int end) {
+//         // code here
+//         if(start==end){
+//             return 0;
+//         }
+//         queue<pair<int,int>>pq;
+//         vector<int>distance;
+//         pq.push({0,start});
+//         vector<int> dist(100000,INT_MAX);
+//         dist[start]=0;
+//         while(!pq.empty()){
+//             int steps=pq.front().first;
+//             int product=pq.front().second;
+//             pq.pop();
+//             // cout<<endl;
+//             // cout<<"product: "<<product<<" steps: "<<steps;
+//             for(int i=0;i<arr.size();i++){
+//                 int new_product=(product*arr[i])%100000;
+//                 int new_final_step=steps+1;
+//                 // cout<<"new_product: "<<product<<" steps: "<<steps+1<<endl;
+//                 if(dist[new_product]>new_final_step){
+//                     // cout<<" steps: "<<steps+1<<endl;
+//                     pq.push({new_final_step,new_product});
+//                     dist[new_product]=new_final_step;
+//                 }
+//             }
+//         }
+//         if(dist[end]==INT_MAX) return -1;
+//         return dist[end];
+//     }
+// };
+//dijkstra's
+class Solution {
+  public:
+    int mod=1e5;
+    int minimumMultiplications(vector<int>& arr, int start, int end) {
+        int n=arr.size();
+        queue<pair<int,int>> q;
+        q.push({0,start});
+        
+        while(!q.empty()){
+            auto temp=q.front();
+            q.pop();
+            int node=temp.second;
+            int lvl=temp.first;
+            
+            for(int i=0; i<n; i++){
+                int adjNode=(node%mod * arr[i]%mod)%mod;
+                if(adjNode==end)return lvl+1;
+                if(adjNode<end)q.push({lvl+1,adjNode});
+            }
+        }
+        return -1;
+    }
+};
+class Solution {
+  public:
+    int minimumMultiplications(vector<int>& arr, int start, int end) {
+        // code here
+        if(start==end){
+            return 0;
+        }
+        queue<pair<int,int>>pq;
+        vector<int>distance;
+        pq.push({0,start});
+        vector<int> dist(100000,INT_MAX);
+        dist[start]=0;
+        while(!pq.empty()){
+            int steps=pq.front().first;
+            int product=pq.front().second;
+            pq.pop();
+            // cout<<endl;
+            // cout<<"product: "<<product<<" steps: "<<steps;
+            for(int i=0;i<arr.size();i++){
+                int new_product=(product*arr[i])%100000;
+                int new_final_step=steps+1;
+                // cout<<"new_product: "<<product<<" steps: "<<steps+1<<endl;
+                if(dist[new_product]>new_final_step){
+                    // cout<<" steps: "<<steps+1<<endl;
+                    pq.push({new_final_step,new_product});
+                    dist[new_product]=new_final_step;
+                }
+            }
+        }
+        if(dist[end]==INT_MAX) return -1;
+        return dist[end];
+    }
+};
